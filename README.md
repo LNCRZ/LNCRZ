@@ -1,6 +1,6 @@
-#👋 Hi, I’m @LNCRZ  
-
-- 👀 I’m interested in web development and love building efficient, scalable, and user-friendly applications.
+👋 Hi, I’m @LNCRZ  
+  
+  👀 I’m interested in web development and love building efficient, scalable, and user-friendly applications.
 - 🌱 I’m currently learning full-stack development to obtain my professional title in Web and Mobile Web Development. 
 - 💞️ I’m looking to collaborate on innovative projects that solve real-world problems and allow me to grow as a developer. 
 - 📫 How to reach me : Let's connect via GitHub discussions or messages!  
